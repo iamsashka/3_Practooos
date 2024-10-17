@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDString.Tests", "TDDString.Tests\TDDString.Tests.csproj", "{A5B88058-3437-43D5-9001-443C0C1210DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDString", "D:\1 семестр\TDDString\TDDString.csproj", "{F27A7544-9840-4F04-B68C-115A7EBC9B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B88058-3437-43D5-9001-443C0C1210DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B88058-3437-43D5-9001-443C0C1210DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B88058-3437-43D5-9001-443C0C1210DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B88058-3437-43D5-9001-443C0C1210DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27A7544-9840-4F04-B68C-115A7EBC9B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27A7544-9840-4F04-B68C-115A7EBC9B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27A7544-9840-4F04-B68C-115A7EBC9B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27A7544-9840-4F04-B68C-115A7EBC9B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608C9F27-D5BF-4567-9780-0635E29478D2}
+	EndGlobalSection
+EndGlobal
